@@ -23,7 +23,7 @@ We'll use an open-source gem, `bcrypt`, to implement this strategy.
 We've got a basic Sinatra MVC application. In our `application_controller` we have two helper methods defined: `logged_in?` returns true or false based on the presence of a `session[:user_id]` and `current_user` returns the instance of the logged in user, based on the `session[:user_id]`. We have five actions defined:
 
 + `get "/" do` renders an `index.erb` file with links to signup or login.
-+ `get '/signup'` renders a form to create a new user. The form includes fields form `username` and `password`.
++ `get '/signup'` renders a form to create a new user. The form includes fields for `username` and `password`.
 + `get '/login'` renders a form for logging in.
 + `get '/success'` renders a `success.erb` page, which should be displayed once a user successfully logs in
 + `get '/failure'` renders a `failure.erb` page. This will be accessed if there is an error logging in or signing up.
@@ -152,3 +152,5 @@ Awesome job! We've now built out a basic authentication system for a user withou
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-password-security'>Securing Passwords in Sinatra</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-password-security'>Securing Passwords in Sinatra</a> on Learn.co and start learning to code for free.</p>
