@@ -2,7 +2,7 @@
 
 ## Overview 
 
-In this lesson, we'll cover bcryp, a gem that works to encrypt passwords. 
+In this lesson, we'll cover bcrypt, a gem that works to encrypt passwords. 
 
 ## Objectives
 
@@ -152,3 +152,5 @@ Awesome job! We've now built out a basic authentication system for a user withou
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-password-security'>Securing Passwords in Sinatra</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-password-security'>Securing Passwords in Sinatra</a> on Learn.co and start learning to code for free.</p>
