@@ -31,7 +31,7 @@ We've got a basic Sinatra MVC application. In our `application_controller` we ha
 
 We've also stubbed out a user model in `app/models/user.rb` that inherits from `ActiveRecord::Base`.
 
-Fork and clone this repository and run `bundle install` to get started! Preview your work by running `shotgun` and navigating to http://localhost:9393 in your browser.
+Fork and clone this repository and run `bundle install` to get started!
 
 ## Password Encryption with BCrypt
 
@@ -152,3 +152,5 @@ Awesome job! We've now built out a basic authentication system for a user withou
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-password-security'>Securing Passwords in Sinatra</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-password-security'>Securing Passwords in Sinatra</a> on Learn.co and start learning to code for free.</p>
