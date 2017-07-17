@@ -138,3 +138,5 @@ Awesome job! We've now built out a basic authentication system for a user withou
 + [How NOT to Store Passwords!](https://www.youtube.com/watch?v=8ZtInClXe1Q) - Computerphile on Youtube
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-password-security'>Securing Passwords in Sinatra</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-password-security'>Securing Passwords in Sinatra</a> on Learn.co and start learning to code for free.</p>
